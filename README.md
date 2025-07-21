@@ -162,7 +162,6 @@ twitch-milestone-celebrator/
 
 # With pip
 pytest
-```
 
 ## 📝 License
 
