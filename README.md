@@ -182,4 +182,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 CrownCore Studios - [@CrownCoreStudio](https://x.com/CrownCoreStudio)
 
-Join CrownCore Studios - [Email Us](crowncorestudios@gmail.com)
+Join CrownCore Studios - Email Us crowncorestudios@gmail.com
