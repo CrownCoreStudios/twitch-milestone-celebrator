@@ -160,9 +160,6 @@ twitch-milestone-celebrator/
 └── README.md            # This file
 ```
 
-# With pip
-pytest
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
@@ -184,3 +181,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📧 Contact
 
 CrownCore Studios - [@CrownCoreStudio](https://x.com/CrownCoreStudio)
+
+Join CrownCore Studios - [Email Us](crowncorestudios@gmail.com)
