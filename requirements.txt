@@ -1,0 +1,6 @@
+pygame==2.5.2
+twitchio==2.10.0
+python-dotenv==1.0.0
+gtts==2.5.1
+requests==2.31.0
+pygame_gui==0.6.9
